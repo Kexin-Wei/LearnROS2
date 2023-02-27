@@ -1,0 +1,17 @@
+[6.339s] Invoking command in '/home/kk/ros2_ws/build/my_robot_controller': PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/kk/ros2_ws/build/my_robot_controller/prefix_override:/home/kk/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/kk/ros2_ws/build/my_robot_controller/build --no-deps install_data
+[8.255s] running develop
+[9.311s] running egg_info
+[9.314s] writing my_robot_controller.egg-info/PKG-INFO
+[9.316s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[9.317s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[9.318s] writing requirements to my_robot_controller.egg-info/requires.txt
+[9.321s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[9.330s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[9.334s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[9.340s] running build_ext
+[9.341s] Creating /home/kk/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[9.344s] Installing test_node script to /home/kk/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[9.346s] 
+[9.346s] Installed /home/kk/ros2_ws/build/my_robot_controller
+[9.347s] running install_data
+[9.547s] Invoked command in '/home/kk/ros2_ws/build/my_robot_controller' returned '0': PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/kk/ros2_ws/build/my_robot_controller/prefix_override:/home/kk/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/kk/ros2_ws/build/my_robot_controller/build --no-deps install_data

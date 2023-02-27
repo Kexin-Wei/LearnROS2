@@ -1,0 +1,20 @@
+[10.308s] Invoking command in '/home/kk/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/kk/ros2_ws/build/my_robot_controller/prefix_override:/home/kk/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/kk/ros2_ws/build/my_robot_controller/build --no-deps install_data
+[13.540s] running develop
+[15.269s] running egg_info
+[15.269s] writing my_robot_controller.egg-info/PKG-INFO
+[15.278s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[15.280s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[15.280s] writing requirements to my_robot_controller.egg-info/requires.txt
+[15.285s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[15.290s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[15.296s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[15.306s] running build_ext
+[15.307s] Creating /home/kk/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[15.313s] Installing draw_circle script to /home/kk/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[15.315s] Installing pose_subscriber script to /home/kk/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[15.323s] Installing test_node script to /home/kk/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[15.325s] Installing turtle_controller script to /home/kk/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[15.336s] 
+[15.338s] Installed /home/kk/ros2_ws/build/my_robot_controller
+[15.345s] running install_data
+[15.640s] Invoked command in '/home/kk/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/kk/ros2_ws/build/my_robot_controller/prefix_override:/home/kk/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/kk/ros2_ws/build/my_robot_controller/build --no-deps install_data

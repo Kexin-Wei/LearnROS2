@@ -1,0 +1,21 @@
+[6.207s] Invoking command in '/home/kk/ros2_ws/src/my_robot_controller': PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/kk/ros2_ws/build/my_robot_controller/prefix_override:/home/kk/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/kk/ros2_ws/build/my_robot_controller/build install --record /home/kk/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
+[8.008s] running egg_info
+[8.018s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[8.019s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[8.021s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[8.021s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[8.022s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[8.037s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[8.040s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[8.040s] running build
+[8.041s] running build_py
+[8.045s] running install
+[8.046s] running install_lib
+[8.055s] running install_data
+[8.061s] running install_egg_info
+[8.070s] removing '/home/kk/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[8.074s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/kk/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[8.082s] running install_scripts
+[8.178s] Installing test_node script to /home/kk/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[8.180s] writing list of installed files to '/home/kk/ros2_ws/build/my_robot_controller/install.log'
+[8.360s] Invoked command in '/home/kk/ros2_ws/src/my_robot_controller' returned '0': PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/kk/ros2_ws/build/my_robot_controller/prefix_override:/home/kk/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/kk/ros2_ws/build/my_robot_controller/build install --record /home/kk/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
